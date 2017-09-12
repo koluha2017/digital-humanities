@@ -7,7 +7,7 @@ Academy of Music in Moscow, and a Doctor or Music in Piano from Indiana Universi
 
 ## My research project
 
-I am interested in iterdisciplinary studies between literature and music and for my dissertation I hope to exlore the relationship 
+I am interested in iterdisciplinary studies between literature and music and for my dissertation I hope to exlore the various interconnections and mutual influences between Russian Modernism in literature and Russian Modernism in music.  
 
 ## My objectives
 
