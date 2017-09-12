@@ -11,7 +11,7 @@ I am interested in iterdisciplinary studies and for my dissertation I hope to ex
 
 ## My objectives
 
-* to learn what digital humanities
+* to learn what digital humanities are
 * to learn what tools are available
 * to figure out how to use them
 * to hopefully apply that knowledge to my research interests
