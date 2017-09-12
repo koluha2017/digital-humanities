@@ -15,5 +15,4 @@ I am interested in iterdisciplinary studies and for my dissertation I hope to ex
 * to learn what tools are available
 * to figure out how to use them
 * to hopefully apply that knowledge to my research interests
-![Nikolai Choubine]
-(https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-1/c50.50.621.621/s320x320/46983_10152674052415478_1893140747_n.jpg?oh=cc20fd8c27c430aacb65e35106f7a97c&oe=5A46D21C)
+![Nikolai Choubine](https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-1/c50.50.621.621/s320x320/46983_10152674052415478_1893140747_n.jpg?oh=cc20fd8c27c430aacb65e35106f7a97c&oe=5A46D21C)
