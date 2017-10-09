@@ -5,7 +5,7 @@
 * Permissions:unknown
 * Creator and Affiliation: Mollie, Ables Kathleen; Tassie, Gniady; Kalani, Craig; Grace, Thomas; Adam, Hochstetter, Indiana University, United States of America
 * Tags: networks, archives, Venice, musicians
-* Annotation: I am interested in networks of people in the context of migration. I am especially interested in the lives of musicians, artists,and writiers who left Russia after 1917 revolution. I like the interface of the "Musicians in Venice" webpage that Ablles et al. created and I would like to create something similar to depict careers, interactions and to trace the trajectory of the lives of people who lefte Russia after the revolution. 
+* Annotation: I am interested in networks of people in the context of migration. I am especially interested in the lives of musicians, artists,and writiers who left Russia after 1917 revolution. I like the interface of the "Musicians in Venice" webpage that Ablles et al. created and I would like to create something similar to depict careers, interactions and to trace the trajectory of the lives of people who left Russia after the revolution. 
 ##  Accessing Russian Culture Online: The scope of digitisation in museums across Russia
 ![screenshot]
 * Artifact type: Collaborative project
