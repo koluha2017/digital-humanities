@@ -1,5 +1,5 @@
 ## Using Archival Texts to Create Network Graphs of Musicians in Early Modern Venice
-![screenshot](https://www.facebook.com/photo.php?fbid=10159198191445478&set=a.10151294528500478.800828.634505477&type=3&theater)
+![screenshot]
 * Artifact type: Collaborative project
 * Source URL: https://dh2017.adho.org/abstracts/615/615.pdf
 * Permissions:unknown
@@ -20,7 +20,7 @@
 * Permissions: unknown
 * Creator and Affiliation: Megan Ward, Oregon State University, United States of America; Adrian S. Wisnicki, University of Nebraska, Lincoln, United States of America
 * Tags: digital archives
-* Annotation: 
+* Annotation: Some of the things I am interested in, like diaries, letters, first drafts of scores, etc. may not be available. Also, the time period I am interested in is very sensitive: a lot of people, not just in Russia but all over the world, have diverging views on Russian Revolution. I would like to know how other scholars dealt with that type of problems.
 
 
 
