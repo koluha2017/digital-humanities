@@ -49,7 +49,7 @@
 * Ward, Megan Elizabeth; Wisnicki, Adrian S.: Livingstone Online: Access Beyond Openness.
 
 * Wasserman, S. and Faust, K. (1994). Social Network Analy- sis: Methods and Applications. 
-      Cambridge: Cambridge University Press.
+       Cambridge: Cambridge University Press.
 
 
 
