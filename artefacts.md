@@ -1,2 +1,2 @@
 # Using Archival Texts to Create Network Graphs of Musicians in Early Modern Venice
-![screenshot](Using Archival Texts)
+![screenshot](/Users/electron/Desktop/Using Archival Texts.jpg)
