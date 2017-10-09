@@ -1,5 +1,5 @@
 ## Using Archival Texts to Create Network Graphs of Musicians in Early Modern Venice
-![screenshot](file:///Users/electron/Desktop/IMG_0251.jpg)
+![screenshot](https://www.facebook.com/photo.php?fbid=10159198191445478&set=a.10151294528500478.800828.634505477&type=3&theater)
 * Artifact type: Collaborative project
 * Source URL: https://dh2017.adho.org/abstracts/615/615.pdf
 * Permissions:unknown
@@ -12,5 +12,16 @@
 * Source URL: https://dh2017.adho.org/abstracts/109/109.pdf
 * Permissions: unknown
 * Creator and Affiliation: Melissa Terras, University College London, United Kingdom; Inna Kizhner; Maxim Rumyantsev; Kristina Sycheva,   Siberian Federal University, Russia
+* Tags: digitisation, museums, Russia, digital canon, access
+* Annotation: Networks rely on digital tools. I am interested in creating an open source database about the lifes of Russian musicians, artists, and writers who found themselves abroad after the October Revolution. I would also like to know more about the state of digitization of the personal archives of Prokoffiev and Rachmaninoff.
+##  Livingstone Online: Access Beyond Opennes
+* Artifact type: Collaborative project
+* Source URL:https://dh2017.adho.org/abstracts/241/241.pdf
+* Permissions: unknown
+* Creator and Affiliation: Megan Ward, Oregon State University, United States of America; Adrian S. Wisnicki, University of Nebraska, Lincoln, United States of America
+* Tags: digital archives
+* Annotation: 
+
+
 
 
