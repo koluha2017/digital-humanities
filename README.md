@@ -15,3 +15,4 @@ I am interested in interdisciplinary studies and for my dissertation I hope to e
 * to consider what tools still need to be developed
 * to apply this knowledge to my research
 * ![Nikolai Choubine](https://scontent.fyhu1-1.fna.fbcdn.net/v/t1.0-1/c50.50.621.621/s320x320/46983_10152674052415478_1893140747_n.jpg?oh=cc20fd8c27c430aacb65e35106f7a97c&oe=5A46D21C)
+* [Nikolai Choubine](file:///Users/electron/Desktop/Using%20Archival%20Texts.jpg)
