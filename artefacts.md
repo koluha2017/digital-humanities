@@ -11,4 +11,6 @@
 * Artifact type: Collaborative project
 * Source URL: https://dh2017.adho.org/abstracts/109/109.pdf
 * Permissions: unknown
-* Creator and Affiliation: 
+* Creator and Affiliation: Melissa Terras, University College London, United Kingdom; Inna Kizhner; Maxim Rumyantsev; Kristina Sycheva,   Siberian Federal University, Russia
+
+
