@@ -1,5 +1,5 @@
 ## Using Archival Texts to Create Network Graphs of Musicians in Early Modern Venice
-![screenshot]
+* ![screenshot](file:///Users/electron/Desktop/Using%20Archival%20Texts.jpg)
 * Artifact type: Collaborative project
 * Source URL: https://dh2017.adho.org/abstracts/615/615.pdf
 * Permissions:unknown
