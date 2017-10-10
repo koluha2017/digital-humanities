@@ -15,7 +15,7 @@
 * Tags: digitisation, museums, Russia, digital canon, access
 * Annotation: Networks rely on digital tools. I am interested in creating an open source database about the lifes of Russian musicians, artists, and writers who found themselves abroad after the October Revolution. I would also like to know more about the state of digitization of the personal archives of Prokoffiev and Rachmaninoff.
 ##  Livingstone Online: Access Beyond Opennes
-![screenshot]
+![screenshot](file:///Users/electron/Desktop/Screen%20Shot%202017-10-09%20at%208.11.23%20PM.png)
 * Artifact type: Collaborative project
 * Source URL:https://dh2017.adho.org/abstracts/241/241.pdf
 * Permissions: unknown
